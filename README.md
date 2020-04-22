@@ -11,5 +11,6 @@ run_plociennik_damian.sh clone - klonuje repozytorium z projektem
 run_plociennik_damian.sh run - tworzy obraz dockerowy i uruchamia środowisko
 run_plociennik_damian.sh clean - usuwa sklonowane wcześniej repozytorium
 ```
-# Semminarium
+Uwaga! Do poprawnego działania skryptu niezbędny jest poprawnie zainstalowany **git** i **docker**.
+# Seminarium
 Seminarium znajduje się pod adresem https://youtu.be/NW8NP7TxnLI, natomiast slajdy i przykłady z tego wystąpienia znajdują się w pliku [assembler-seminary.pdf](assembler-seminary.pdf).
