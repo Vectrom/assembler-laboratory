@@ -2,7 +2,7 @@
 Repozytorium zawiera projekt z przedmiotu "Programowanie Niskopoziomowe" przygotowany przez Damiana Płóciennika.
 
 # Opis laboratorium
-Wprowadzenie teoretyczne a także opis zadań do wykonania znajdują się w pliku [assembler-laboratory.pdf](assembler-laboratory.pdf). W katalogach Zad1 oraz Zad2 znajdują się pliki wymagające uzupełnienia lub plik testujący poprawność wymagania zadań.
+Wprowadzenie teoretyczne, wszystkie niezbędne informacje oraz opis zadań do wykonania znajdują się w pliku [assembler-laboratory.pdf](assembler-laboratory.pdf). W katalogach Zad1 oraz Zad2 znajdują się pliki wymagające uzupełnienia lub plik testujący poprawność wymagania zadań.
 
 # Skrypt
 W celu ułatwienia pracy został przygotowany skrypt **run_plociennik_damian.sh**, który posiada kilka opcji:
