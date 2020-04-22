@@ -1,0 +1,4 @@
+Szczegó³owy opis zadania i materia³y pomocnicze znajduj¹ siê w pliku assembler-laboratory.pdf w g³ównym katalogu projektu.
+
+Treœæ zadania:
+Zaimplementuj algorytm wyszukiwania binarnego uzupe³niaj¹c funkcjê find w za³¹czonym pliku (find.asm). Funkcja powinna mieæ mo¿liwoœæ wywo³ania z poziomu jêzyka C, zgodnie z konwencj¹ wywo³añ System V. Przyjmij, ¿e parametry tej funkcji to kolejno wskaŸnik do pierwszego elementu posortowanej niemalej¹co tablicy liczb ca³kowitych (int), rozmiar tej tablicy (int) oraz poszukiwana wartoœæ (int). Kod testuj¹cy poprawne wykonane æwiczenia znajduje siê w pliku test_find.c. 
