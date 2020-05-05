@@ -31,6 +31,9 @@ then
     fi
 
     rm -rf 'assembler-laboratory';
+    docker ps -a -q -f status=exited | xargs docker rm 2>/dev/null
+    docker rmi plociennikdamian:1.0 2>/dev/null
+    docker rmi debian 2>/dev/null
 else
     echo 'Nierozpoznany argument! Proszę spróbować ponownie!';
 fi
