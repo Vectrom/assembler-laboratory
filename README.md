@@ -14,7 +14,7 @@ run_plociennik_damian.sh clean - usuwa sklonowane wcześniej repozytorium
 Uwaga! Do poprawnego działania skryptu niezbędny jest poprawnie zainstalowany **git** i **docker**.
 
 # Seminarium
-Seminarium znajduje się pod adresem https://youtu.be/NW8NP7TxnLI, natomiast slajdy i przykłady z tego wystąpienia znajdują się w pliku [assembler-seminar.pdf](assembler-seminar.pdf).
+Seminarium znajduje się pod adresem https://youtu.be/NW8NP7TxnLI, natomiast slajdy i przykłady z tego wystąpienia znajdują się w pliku [Plociennik_Damian_1_Assembler_x86-64_PREZ.pdf](Plociennik_Damian_1_Assembler_x86-64_PREZ.pdf).
 
 # Bibliografia
 Swoistą biblią dla programistów assembly jest [manual Intela](https://software.intel.com/en-us/articles/intel-sdm).
